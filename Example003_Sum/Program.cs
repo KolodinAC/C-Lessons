@@ -1,6 +1,8 @@
 ﻿// Создать программу сложения двух целых чисел с выведением суммы
-int numberA = 31;
-int numberB = 54;
+int numberA = new Random().Next(1,10); // 1 2 3 4 ... 9
+Console.WriteLine(numberA);
+int numberB = new Random().Next(1,10);
+Console.WriteLine(numberB);
 int result = numberA + numberB;
 Console.Write("Sum = ");
 Console.WriteLine(result);
