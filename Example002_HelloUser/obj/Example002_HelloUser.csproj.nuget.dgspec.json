@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
+    "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
+    "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectPath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\obj\\",
+        "outputPath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

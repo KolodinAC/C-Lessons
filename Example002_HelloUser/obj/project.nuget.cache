@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/TLOkK+IxCstHs7N2pvlkBho+uRQjKOGlVpL4m6ZxCs/3pcpeUuaBJBukspU4aUoV4boDjjLDONNPq7xCju7g==",
+  "dgSpecHash": "XMcIT1uyqod0x7eDF6Ff+XqPK7b5RCb/MIxfvL1wbTGUjQHm3oabVrb++iNHTf3mJ/ch+7MEeXG+Yf47yW4AyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+  "projectFilePath": "C:\\Users\\anton\\Desktop\\C#Lessons\\Repo C# Lessons\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
