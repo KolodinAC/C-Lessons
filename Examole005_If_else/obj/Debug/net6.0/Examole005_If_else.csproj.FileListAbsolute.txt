@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\bin\Debug\net6.0\Examole005_If_else.exe
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\bin\Debug\net6.0\Examole005_If_else.deps.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\bin\Debug\net6.0\Examole005_If_else.runtimeconfig.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\bin\Debug\net6.0\Examole005_If_else.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\bin\Debug\net6.0\Examole005_If_else.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\refint\Examole005_If_else.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\Examole005_If_else.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Examole005_If_else\obj\Debug\net6.0\ref\Examole005_If_else.dll
