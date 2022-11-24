@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\bin\Debug\net6.0\Example006_Weights.exe
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\bin\Debug\net6.0\Example006_Weights.deps.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\bin\Debug\net6.0\Example006_Weights.runtimeconfig.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\bin\Debug\net6.0\Example006_Weights.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\bin\Debug\net6.0\Example006_Weights.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\refint\Example006_Weights.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\Example006_Weights.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example006_Weights\obj\Debug\net6.0\ref\Example006_Weights.dll
