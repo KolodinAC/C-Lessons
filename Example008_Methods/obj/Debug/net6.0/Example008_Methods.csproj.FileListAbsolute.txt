@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.exe
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.deps.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.runtimeconfig.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\bin\Debug\net6.0\Example008_Methods.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\refint\Example008_Methods.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\Example008_Methods.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example008_Methods\obj\Debug\net6.0\ref\Example008_Methods.dll
