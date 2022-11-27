@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\bin\Debug\net6.0\Example009_Arrays.exe
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\bin\Debug\net6.0\Example009_Arrays.deps.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\bin\Debug\net6.0\Example009_Arrays.runtimeconfig.json
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\bin\Debug\net6.0\Example009_Arrays.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\bin\Debug\net6.0\Example009_Arrays.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\refint\Example009_Arrays.dll
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.pdb
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\Example009_Arrays.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#Lessons\Repo C# Lessons\Examples\Example009_Arrays\obj\Debug\net6.0\ref\Example009_Arrays.dll
