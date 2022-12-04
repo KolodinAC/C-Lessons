@@ -33,3 +33,11 @@ string Replace(string text, char oldValue, char newValue)      // задаем �
 
 string newText = Replace(text, ' ', '|');
 System.Console.WriteLine(newText);
+System.Console.WriteLine();
+string newText2 = Replace(newText, 'к', 'К');
+System.Console.WriteLine(newText2);
+System.Console.WriteLine();
+string newText3 = Replace(newText2, 'С', 'с');
+System.Console.WriteLine(newText3);
+System.Console.WriteLine();
+
